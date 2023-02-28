@@ -19,9 +19,7 @@ https://www.researchgate.net/profile/Brian-Higgins/post/How-to-calculate-closest
 ## Struktur Program
 ```bash
 .
-│   .gitignore
 │   README.md
-│   requirements.txt
 │                   
 ├───src
 │   │___main.py
