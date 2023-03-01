@@ -20,7 +20,18 @@ https://www.researchgate.net/profile/Brian-Higgins/post/How-to-calculate-closest
 ```bash
 .
 │   README.md
-│                   
+├───test
+|   |___ n = 1000.png
+|   |___ n = 128.png
+|   |___ n = 16 (1).png
+|   |___ n = 16 (2).png
+|   |___ n = 64.png
+|   |___ n = visualisasi n = 1000.png
+|   |___ n = visualisasi n = 128.png
+|   |___ n = visualisasi n = 16 (1).png
+|   |___ n = visualisasi n = 16 (2).png
+|   |___ n = visualisasi n = 64.png
+│                                      
 ├───src
 │   │___main.py
 │           
