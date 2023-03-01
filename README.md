@@ -32,7 +32,14 @@ https://www.researchgate.net/profile/Brian-Higgins/post/How-to-calculate-closest
 * Python versi 3.8.5 atau lebih baru. Pastikan pula terdapat package PyPi (PIP) pada Python Anda.
 
 ## Cara Menjalankan Program
-1. 
+1. Buka Command Prompt (CMD) pada komputer Anda.
+2. Pilih ke directory tempat file berada.
+3. Setelah masuk ke directory, ketik "python main.py".
+4. Program akan meminta masukan jumlah titik yang berada di bidang 3D.
+5. Pengguna memasukkan input jumlah titik yang berada di bidang 3D.
+6. Program akan menampilkan output pasangan titik dengan jarak terpendek, jarak terpendek, banyak perhitungan Euclidean Distance, waktu eksekusi, dan visualisasi titik dalam bidang 3D.
+7. Visualisasi dengan indikator warna merah menandakan pasangan titik dengan jarak terpendek.
+
 
 ## Author
 * Asyifa Nurul Shafira (13521125)
